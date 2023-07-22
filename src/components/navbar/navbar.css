@@ -1,0 +1,42 @@
+.vb_navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 5rem;
+}
+.vb_navbar-wrapper{
+    display: flex;
+}
+
+.vb_navbar-logo{
+    margin-left: 1.2rem;
+}
+.vb_navbar-logo img{
+    height: 6.5rem;
+}
+
+.vb_navbar-menu{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 10rem;
+    align-items: center;
+    gap: 5rem;
+}
+
+.vb_navbar-menu p a{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 520;
+}
+
+.vb_navbar-login button{
+    font-family: sans-serif;
+    font-size: 17px;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 10px;
+    margin-right: 1.5rem;
+    margin-top: 1.2rem;
+    background-color: rgb(212, 204, 204);
+    cursor: pointer;
+}
+

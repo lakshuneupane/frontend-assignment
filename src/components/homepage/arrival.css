@@ -1,0 +1,33 @@
+.arrival-heading{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.arrival-heading p{
+    font-size: 40px;
+}
+
+.new-products{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+}
+
+.product-container{
+    /* height: 5rem; */
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.image-container img{
+    max-width: 100%;
+    border-radius:.8em;
+}
+
+.conatiner-body button{
+    margin-top: 5px;
+    border: none;
+    padding: 7px;
+    cursor: pointer;
+    font-weight: 400;
+}

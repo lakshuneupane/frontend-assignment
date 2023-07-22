@@ -1,0 +1,37 @@
+.productdetail{
+    display: flex;
+    margin-top: 5rem;
+}
+
+.product-image{
+    width: 30%;
+    margin-left: 3rem;
+}
+.product-image img{
+    width: 100%;
+    margin-top: 5rem;
+}
+
+.product-detail{
+    padding: 2rem;
+    margin-top: 8rem;
+    margin-left: 4rem;
+}
+
+.product-detail h2{
+    font-size: 36px;
+}
+
+.product-detail p{
+    line-height: 1.7em;
+    margin-top: 1rem;
+}
+
+.product-detail button{
+    background-color:#f9a01b ;
+    border: none;
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    cursor: pointer;
+}

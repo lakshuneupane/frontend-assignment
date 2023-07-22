@@ -1,0 +1,34 @@
+form {
+    width: 400px;
+    margin: 5rem auto;
+}
+
+.form-label{
+    font-size: larger;
+    padding: 0.75rem;
+    font-size: 22px;
+    display: block;
+}
+
+.form-input{
+    width: 100%;
+    padding: 8px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+form button{
+    background-color:#a9bfd7 ;
+    padding: 10px;
+    margin-top: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    margin-left: 9rem;
+}
+
+form p{
+    margin-top: 1.5rem;
+    margin-left: 4rem;
+}

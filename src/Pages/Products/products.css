@@ -1,0 +1,56 @@
+.product{
+    display: flex;
+    flex-direction: column;
+}
+
+.inputContainer{
+    text-align: center;
+    
+}
+
+.inputContainer input{
+    background-color:#f9f7ed ;
+    border-radius: 0.45rem;
+    padding: 0.75rem;
+    font-size: 20px;
+}
+
+
+.title{
+    text-align: center;
+    font-size: 32px;
+    margin-top: 3rem;
+}
+
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 3rem;
+}
+
+.product-card{
+
+    width: 13rem;
+    margin-top: 3rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.card-image img{
+    height: 11rem;
+    width: 11rem;
+    border-radius:.8em;
+}
+
+.card-body button{
+    border: none;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    cursor: pointer;
+}
+
+.card-body button a{
+    font-size: 16px;
+    font-weight: 300;
+}
